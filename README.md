@@ -29,7 +29,7 @@ This project is an audit of the open-source software Git. It explores its origin
 
 ### Step 1: Clone the repository
 
-git clone https://github.com/nooblyxmad/oss-audit-24BCY10077-/
+git clone https://github.com/Tamannaaahh/oss-audit-24BCG10105-/
 
 ### Step 2: Navigate to directory
 
