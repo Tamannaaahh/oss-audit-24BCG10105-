@@ -16,3 +16,4 @@ echo "Uptime   : $UPTIME"
 echo "Date     : $DATE"
 echo "Distro   : $DISTRO"
 echo "License  : GPL (Linux Kernel)"
+#Tamanna
