@@ -2,7 +2,7 @@
 STUDENT_NAME="Tamanna"
 SOFTWARE_CHOICE="Git"
 KERNEL=$(uname -r)
-USER_NAME=$(Tamannaaahh)
+USER_NAME=$(whoami)
 UPTIME=$(uptime -p)
 DATE=$(date)
 DISTRO=$(lsb_release -d 2>/dev/null | cut -f2)
