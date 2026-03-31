@@ -33,7 +33,7 @@ git clone https://github.com/Tamannaaahh/oss-audit-24BCG10105-/
 
 ### Step 2: Navigate to directory
 
-cd oss-audit-24BCY10105-
+cd oss-audit-24BCG10105-
 
 ### Step 3: Give permission
 
